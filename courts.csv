@@ -1,0 +1,9 @@
+court_id,location,type,usage_count
+1,Indoor A,Indoor,50
+2,Indoor B,Indoor,45
+3,Outdoor A,Outdoor,30
+4,Outdoor B,Outdoor,25
+5,Indoor C,Indoor,60
+6,Outdoor C,Outdoor,20
+7,Indoor D,Indoor,55
+8,Outdoor D,Outdoor,15

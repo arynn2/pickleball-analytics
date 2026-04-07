@@ -1,0 +1,11 @@
+player_id,name,age,skill_level,dupr_rating,years_experience
+1,Aryan,23,Advanced,4.6,3
+2,John,35,Intermediate,3.5,2
+3,Sam,29,Beginner,,1
+4,Mike,41,Advanced,4.2,4
+5,Raj,38,Intermediate,3.8,3
+6,Chris,26,Beginner,2.5,1
+7,David,32,Advanced,4.7,5
+8,Alex,28,Intermediate,,2
+9,Tom,45,Advanced,4.3,6
+10,Ryan,22,Beginner,2.8,1
